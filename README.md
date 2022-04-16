@@ -8,6 +8,6 @@ This is my first TOP project. The website will show 4 natural DIY coffee recipes
 - coffee hair shampoo
 - coffee body scrub
 
-Enjoy!
+Thanks for checking it out!
  
  
